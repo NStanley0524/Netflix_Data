@@ -1,4 +1,4 @@
-# Netflix
+# Netflix Data
 
 ### Project Overview
 This project evaluates Netflix's data from 1942-2021. This dataset will give us insight on the popular movies, and tv shows in netflix, as well as the various actors that contributed to the success of this company.
